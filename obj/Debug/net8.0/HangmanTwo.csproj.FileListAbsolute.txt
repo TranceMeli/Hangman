@@ -1,0 +1,15 @@
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\bin\Debug\net8.0\HangmanTwo.exe
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\bin\Debug\net8.0\HangmanTwo.deps.json
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\bin\Debug\net8.0\HangmanTwo.runtimeconfig.json
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\bin\Debug\net8.0\HangmanTwo.dll
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\bin\Debug\net8.0\HangmanTwo.pdb
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.AssemblyInfoInputs.cache
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.AssemblyInfo.cs
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.csproj.CoreCompileInputs.cache
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.sourcelink.json
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.dll
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\refint\HangmanTwo.dll
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.pdb
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\HangmanTwo.genruntimeconfig.cache
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Practice\HangmanTwo\obj\Debug\net8.0\ref\HangmanTwo.dll
